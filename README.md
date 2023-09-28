@@ -156,7 +156,5 @@ No known bugs at this time.
 ## Authors
 Maxime Guy Bakunzi - [Github](https://github.com/Maxime-Guy) / [Twitter](https://twitter.com/GuyBakunzi)
 
-
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
